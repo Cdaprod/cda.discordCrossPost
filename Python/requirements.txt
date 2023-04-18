@@ -1,0 +1,12 @@
+#
+# These are the dependancies needed to run CrossPost.py
+#    the command line argument to install them is:
+#
+#          'pip install -r requirements.txt' 
+#
+# from within the project folder after you have cloned
+#           
+
+discord.py 
+facebook-sdk 
+tweepy
