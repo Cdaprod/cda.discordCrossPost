@@ -1,0 +1,17 @@
+discord_social_bot/
+|-- main.py
+|
+|-- social_handlers/
+|   |-- __init__.py
+|   |-- facebook_handler.py
+|   |-- twitter_handler.py
+|   |-- instagram_handler.py
+|   |-- linkedin_handler.py
+|   |-- pinterest_handler.py
+|   |-- youtube_handler.py
+|   |-- fetch_messages.py
+|
+|-- docs
+|   |-- FILETREE.txt
+|
+|-- requirements.txt

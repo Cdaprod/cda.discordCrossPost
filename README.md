@@ -1,3 +1,5 @@
+
+
 # Discord Cross-Post Bot
 
 This bot automatically cross-posts messages from Discord channels to a Facebook group and Twitter account. It's a simple solution to keep your social media platforms in sync with your Discord community.
